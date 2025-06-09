@@ -1,0 +1,115 @@
+body{
+
+background-color: rgb(34, 34, 34);
+
+}
+
+.bac{
+
+width: 200px;
+height:100px;
+
+}
+
+.ps{
+
+display: grid;
+text-align: center;
+justify-content: center;
+
+grid-template-columns:400px 400px 400px  ;
+grid-template-rows:600px 600px 600px  ;
+gap: 50px;
+
+
+
+}
+
+.ps1{
+
+background-color: rgb(37, 37, 37);;
+width: 400px; ;
+height: 600px;
+grid-column: 1;
+
+}
+
+
+
+
+.ps2{
+
+    background-color: rgb(37, 37, 37);;
+    width: 400px; 
+    height:600;
+    
+    }
+
+    
+
+
+.ps3{
+
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+    
+   
+    }
+               
+.ps4{
+
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+    
+    }
+        
+.ps5{
+
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+ 
+    }
+
+
+
+
+
+.ps6{
+
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+  
+    }
+        
+
+  
+
+
+
+.ps7 {
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+  
+
+}   
+
+.ps8{
+    background-color: rgb(37, 37, 37);;
+    width: 400px; ;
+    height: 600px;
+  
+
+}
+
+.ps9 {
+    background-color: rgb(37, 37, 37);;
+    width: 300px; ;
+    height: 600px;
+  
+
+}   
